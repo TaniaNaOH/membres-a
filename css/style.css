@@ -12,4 +12,30 @@ nav {
 
 .section_member {
     background-color:  #373737;
+    margin-top: 50px;
+}
+
+.parallax-container {
+  height: 350px;
+}
+
+body > main > div:nth-child(5) > div > div > div > div > div.card-content > div > form > div > div {
+  font-size: 40px;
+}
+
+h2,h3,h4,h5 {
+  text-align: center;
+}
+
+body > main > div:nth-child(1) > div > div > div {
+    border-radius: 9px;
+}
+
+input-field {
+  font-size: 50px;
+    text-align: center;
+}
+
+#email {
+    font-size: 60px;
 }
