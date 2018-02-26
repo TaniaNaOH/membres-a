@@ -1,5 +1,6 @@
 body {
-  background-color:  #373737;
+  background-color:  #ffffff;
+  min-width: 100%;
 }
 
 nav {
@@ -11,31 +12,56 @@ nav {
 }
 
 .section_member {
-    background-color:  #373737;
+    background-color:  #ffffff;
     margin-top: 50px;
 }
 
 .parallax-container {
-  height: 350px;
+  height: 320px;
 }
 
-body > main > div:nth-child(5) > div > div > div > div > div.card-content > div > form > div > div {
-  font-size: 40px;
+body > main > div:nth-child(6) > div.card-content > div > form > div > div {
+  font-size: 30px;
 }
 
 h2,h3,h4,h5 {
   text-align: center;
 }
 
-body > main > div:nth-child(1) > div > div > div {
-    border-radius: 9px;
-}
 
 input-field {
-  font-size: 50px;
-    text-align: center;
+  font-size: 30px;
+    margin-right: 50%;
 }
 
 #email {
     font-size: 60px;
+}
+
+html, body, .block {
+   height: 100%;
+ }
+
+.nav-wrapper {
+  margin-left: 33%;
+    background-color: #C50B30 !important;
+
+}
+
+a.brand-logo {
+  font-size: 85px;
+}
+
+.card-content {
+  background-colo:rgba(0,0,0,0.5);
+  margin-bottom: 50px;
+}
+
+#modal1 {
+
+}
+
+body > div.row > div > a {
+  margin-bottom: 300px;
+  background-color: #C50B30 !important;
 }
