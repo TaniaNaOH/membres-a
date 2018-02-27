@@ -70,3 +70,8 @@ body > div.row > div > a {
   margin-bottom: 300px;
   background-color: #C50B30 !important;
 }
+
+body > main > div:nth-child(6) > div.card-content > div > form {
+  font-size: 35px;
+    color: #C50B30;
+}
