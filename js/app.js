@@ -18,5 +18,5 @@ $(document).ready(function(){
         $('.modal').modal();
       });
 
-      var $toastContent = $('<span>I am toast content</span>').add($('<button class="btn-flat toast-action">Undo</button>'));
-    Materialize.toast($toastContent, 10000);
+    //  var $toastContent = $('<span>I am toast content</span>').add($('<button class="btn-flat toast-action">Undos</button>'));
+    //Materialize.toast($toastContent, 10000);
