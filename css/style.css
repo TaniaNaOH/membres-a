@@ -115,3 +115,9 @@ body > footer > div > div {
   padding: 10px;
   width: 100vw;
 }
+
+body > main > div:nth-child(6) > div.card-content > div.row > div > a {
+    background-color: #C50B30 !important;
+    font-size: 30px;
+    margin-right: 33px;
+}
